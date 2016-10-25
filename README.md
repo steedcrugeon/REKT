@@ -7,4 +7,4 @@ Released as v0.2 - BETA "REKT Escape Pod Mod" - 25/10/16
   - IndicatorLights
   - Landertron
   
-  N.B.  Neither of these are dependencies and the Mod has been designed as a standalone. Module Manager is required for the               implementation of supporting mods Modules.
+  N.B.  Neither of these are dependencies and the Mod has been designed as a standalone. Module Manager is required for the               implementation of supporting mods Modules but not for REKT if operating as a standalone.
