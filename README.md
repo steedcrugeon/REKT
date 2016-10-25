@@ -1,8 +1,12 @@
 # REKT
 Recoverable Emergency Kerbal Transport
 
+This is primarly a Parts Mod to the Kerbal Space Program computer game. It features a few compact pods and some supporting fixtures desgined to prolong the life expectancy of your Kerbals should your mission suddenly be doomed to failure!
+
+It is not finsihed yet...
+
 Released as v0.2 - BETA "REKT Escape Pod Mod" - 25/10/16
-  This is the first releases version - Please note it is still in BETA and feedback is welcomed.
+  This is the first release version - Please note it is still in BETA and feedback is welcomed.
   It is HIGHLY RECOMMENDED that you use this mod with the following mods:
   - IndicatorLights
   - Landertron
