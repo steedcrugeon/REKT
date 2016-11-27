@@ -1,3 +1,15 @@
+Update to v0.4 - 27/11/2016
+
+Fixes:
+- corrected a texture issue with the rektMk1A
+- changed some of the rescale factors and moving some attahcment nodes to transforms on various models.
+- adjusted the Module Manager patches to accomodate for the new parts.
+
+New:
+- Monoprop Fuel Cell added
+- New KIS container added
+- Mini SRB added (Landertron compatible)
+
 Update to v0.3 - 30/10/2016
 
 Fixes:
