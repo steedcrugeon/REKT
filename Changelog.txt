@@ -2,8 +2,8 @@ Update to v0.4 - 27/11/2016
 
 Fixes:
 - corrected a texture issue with the rektMk1A
-- changed some of the rescale factors and moving some attahcment nodes to transforms on various models.
-- adjusted the Module Manager patches to accomodate for the new parts.
+- changed some of the rescale factors and moving some attachment nodes to transforms on various models.
+- adjusted the Module Manager patches to accommodate for the new parts.
 
 New:
 - Monoprop Fuel Cell added
@@ -20,7 +20,7 @@ Fixes:
 
 New:
 - IVA's for all pods.
-- RAMP (REKT Auxiliary Miniature Parachute) desgined specifically to resolve the stock chute clearance issue.
+- RAMP (REKT Auxiliary Miniature Parachute) designed specifically to resolve the stock chute clearance issue.
 
 Released as v0.2 - BETA "REKT Escape Pod Mod" - 25/10/16 This is the first release version 
 
