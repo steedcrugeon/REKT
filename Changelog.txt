@@ -1,3 +1,10 @@
+Update to v0.4.1 - 23/12/2016
+
+- Added mk1C Cryo Pod
+- Added Probe Core
+- Added OTAV parts
+- Updated Indicator Lights Patch
+
 Update to v0.4 - 27/11/2016
 
 Fixes:
