@@ -3,7 +3,7 @@ Fixes:
 - Implemented buoyancy update to mk1A, mk1N, freight Pod and KIS pod.
 
 New:
-- Added mk1C Cryo Pod
+- Added mk1C Cryo Pod (This part requires the DeepFreeze mod to be present in order for the Cryogenics to function).
 - Added Probe Core
 - Added OTAV parts
 - Updated Indicator Lights Patch
