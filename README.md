@@ -13,4 +13,4 @@ It is HIGHLY RECOMMENDED that you use this mod with the following mods:
   
   N.B.  None of these are dependencies and the Mod has been designed as a standalone. Module Manager is required for the               implementation of supporting mods Modules but not for REKT if operating as a standalone.
 
-LinuxGuruGamer's REtractableLiftingSurface plugin is utilised by the OTAV parts, this comes bundled but is not required if you do not wish to use the OTAV parts.
+  LinuxGuruGamer's RetractableLiftingSurface plugin is utilised by the OTAV parts, this comes bundled but is not required if you do not wish to use the OTAV parts.
