@@ -1,3 +1,10 @@
+Update to v0.4.2 - 27/12/2016
+Fixes:
+- Correct RAMP RealChute Patch Syntaxt error (causing parachute to break).
+
+New:
+- Added OTAV IVA.
+
 Update to v0.4.1 - 23/12/2016
 Fixes:
 - Implemented buoyancy update to mk1A, mk1N, freight Pod and KIS pod.
