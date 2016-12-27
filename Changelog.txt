@@ -1,6 +1,6 @@
 Update to v0.4.2 - 27/12/2016
 Fixes:
-- Correct RAMP RealChute Patch Syntaxt error (causing parachute to break).
+- Correct RAMP RealChute Patch Syntax error (causing parachute to break).
 
 New:
 - Added OTAV IVA.
