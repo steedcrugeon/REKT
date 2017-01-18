@@ -8,10 +8,11 @@ New:
 - OTAV in-line dock added
 - OTAV ring dock added
 - OTAV docking clamps added
-- Indicator lights patch updated
 
 Other:
 - Deprecated the OTAV AirBrake
+- Indicator lights patch updated
+- Community Tech Tree patch updated
 
 Update to v0.4.2 - 27/12/2016
 Fixes:
