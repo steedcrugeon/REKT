@@ -1,3 +1,19 @@
+Update to v0.4.3 - 18/01/2017
+Fixes:
+- minor textures tweaks
+- re-modelled the OTAV airbrake
+
+New:
+- RPM now supported
+- OTAV in-line dock added
+- OTAV ring dock added
+- OTAV docking clamps added
+
+Other:
+- Deprecated the OTAV AirBrake
+- Indicator lights patch updated
+- Community Tech Tree patch updated
+
 Update to v0.4.2 - 27/12/2016
 Fixes:
 - Correct RAMP RealChute Patch Syntax error (causing parachute to break).
