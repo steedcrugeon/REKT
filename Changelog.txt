@@ -1,3 +1,18 @@
+Update to v0.4.4 - 20/05/2017
+Fixes:
+- corrected Angency config error
+- restructered the SHED/Parts folder splitting REKT and OTAV
+- revised modle for OTAVcore
+- revised OTAV textures
+- Minichute scalling issue during animation
+
+New:
+- Inline 12 Adapter
+- normal Textures added to all REKT mk1 pods.
+
+Other:
+- implemented revised emergency power generator for the Cryopod
+
 Update to v0.4.3 - 18/01/2017
 Fixes:
 - minor textures tweaks
