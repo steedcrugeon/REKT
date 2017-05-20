@@ -1,10 +1,10 @@
 Update to v0.4.4 - 20/05/2017
 Fixes:
 - corrected Agency config error
-- restructered the SHED/Parts folder splitting REKT and OTAV
-- revised modle for OTAVcore
+- restructured the SHED/Parts folder splitting REKT and OTAV
+- revised model for OTAVcore
 - revised OTAV textures
-- Minichute scalling issue during animation
+- Minichute scaling issue during animation
 
 New:
 - Inline 12 Adapter
