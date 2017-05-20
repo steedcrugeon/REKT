@@ -1,6 +1,6 @@
 Update to v0.4.4 - 20/05/2017
 Fixes:
-- corrected Angency config error
+- corrected Agency config error
 - restructered the SHED/Parts folder splitting REKT and OTAV
 - revised modle for OTAVcore
 - revised OTAV textures
