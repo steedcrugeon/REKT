@@ -2,12 +2,14 @@
   "NAME": "RecoverableEmergecyKerbalTransport",
   "URL": "https://github.com/steedcrugeon/REKT/new/master/SHED/rekt.version",
   "DOWNLOAD": "https://github.com/steedcrugeon/REKT/releases",
-  "VERSION": {
+  "VERSION": 
+  {
     "MAJOR": 0,
     "MINOR": 4,
-    "PATCH": 3
+    "PATCH": 4
   },
-  "KSP_VERSION": {
+  "KSP_VERSION": 
+  {
     "MAJOR": 1,
     "MINOR": 2,
     "PATCH": 2
