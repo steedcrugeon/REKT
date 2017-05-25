@@ -1,6 +1,6 @@
 {
   "NAME": "RecoverableEmergecyKerbalTransport",
-  "URL": "https://github.com/steedcrugeon/REKT/new/master/SHED/rekt.version",
+  "URL": "https://github.com/steedcrugeon/REKT/tree/0.4.4/SHED/rekt.version",
   "DOWNLOAD": "https://github.com/steedcrugeon/REKT/releases",
   "GITHUB":
   {
@@ -24,5 +24,5 @@
   	"MAJOR": 1,
   	"MINOR": 2,
 	"PATCH": 0
-  },
+  }
 }
