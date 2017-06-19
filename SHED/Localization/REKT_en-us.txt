@@ -1,0 +1,46 @@
+Localization
+{
+	en-us
+	{
+		// --- the Mod ---
+		
+		#autoLOC_REKT_0000 = Recoverbale Emergency Kerbal Transport
+
+		// --- REKt Parts ---
+		
+		// --- REKT mk1# Pods ---
+		
+		#autoLOC_REKT_0001 = REKT mk1a
+		#autoLOC_REKT_0002 = After repeated attempts to get into his favourite snack bar vending machine our lead designer realised the hexagon like structure offered considerable impact protection. We threw on some heat tiles and a set of hydraulic actuated airbrakes and it was marketed as an escape pod. It is a bit cosy but better than aerobraking with your face. - WARRANTY VOID IF USED FOR SUB-ORBITAL TRAJECTORIES - 
+ 		#autoLOC_REKT_0003 = Deploy Airbrakes
+		#autoLOC_REKT_0004 = Retract Airbrakes
+		#autoLOC_REKT_0005 = Toggle Airbrakes
+
+		#autoLOC_REKT_0006 = REKT mk1d
+		#autoLOC_REKT_0007 = For longer journeys where you might not be able to de-orbit safely the REKT mk1D is the obvious choice. With additional power reserves, more cubby holes for snacks and an integreated communications suite you'll have all you need whilst you wait to be resuced. - WARRANTY VOID IF OCCUPIED -	 
+
+		#autoLOC_REKT_0008 = REKT mk1c
+		#autoLOC_REKT_0009 = After successful negotiations with REPOSoftTech, Sphero-Hendron Engineering Dynamics built a self contained refrigeratorfor storing all the office drinks in. The boffins even stuck in an RTG so that when the power was out the drinks steyed cool! Inadvertantly one of the mail guys got stuck inside and no one noticed for a week. - WARRANTY VOID IF USED BELOW ROOM TEMPERATURE -
+		
+		#autoLOC_REKT_0010 = REKT mk1n
+		#autoLOC_REKT_0011 = With the success of the REKT mk1A some one pointed out that airbrakes don't work on Mun. After the laughter subsided managment gave the work experience guy some pocket change and told him to buy some bottle rockets. To this day no one is quite sure where he got them from but they do the trick. - WARRANTY VOID IF RETRO-ROCKETS ARE ENGAGED -
+		#autoLOC_REKT_0012 = Deploy Retro-rockets
+		#autoLOC_REKT_0013 = Retract Retro-rockets
+		#autoLOC_REKT_0014 = Toggle Retro-rockets
+	
+		// --- Freght pods ---
+
+		#autoLOC_REKT_0020 = REKT Kompatible Kontainer
+		#autoLOC_REKT_0021 = When the production team ran out of internal parts due to a clerical error, the cleric was fired and the entire batch was painted blue and sold as 'space cupboards'. They work surprisingly well and utilise the existing REKT infrastructure. - WARRANTY VOID IF USED FOR STORAGE - 
+		#autoLOC_REKT_0022 = REKT Kompatible Kontainer (KIS Variant)
+		#autoLOC_REKT_0023 = When the production team ran out of internal parts due to a clerical error (because they had already fired the previous cleric and no-one took over) another batch was sold as 'space cupboards', this time painted yellow. They work surprisingly well and utilise the existing REKT infrastructure. This Version supports KIS storage. - WARRANTY VOID IF USED FOR STORAGE -
+
+		// --- REKT Decoupler Parts
+
+		#autoLOC_REK_0024 = R-ITA Decoupler
+		#autoLOC_REK_0025 = A clever chap approached the company and suggested a brilliant idea, why not have a specialised REKT Inline Triple Adapter that allows you to mount multiple pods with quick access to them. Needless to say the management team said this was a ridiculous idea and after the clever chap had left prompetly set about getting R-ITA produced.
+		#autoLOC_REK_0026 = 'Hub' Inline 12 REKT Decoupler
+		#autoLOC_REK_0027 = There is almost always the requirement for bigger and better. Until that comes along the Inline 12 Hub will have to fill that gap, allowing for 12 REKT pods to be attached to a single adapter part (alternatively you could fit 6 OTAVs).
+
+
+
