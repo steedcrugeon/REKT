@@ -1,8 +1,19 @@
+Update to v0.4.5 - 06/2017
+Fixes:
+- Further revisions to the OTAV model
+
+New:
+- Added Landing gear to the OTAV model using KSPWheel
+
+Other:
+- Implemented Localisation
+- Compatible with KSP-AVC/MiniAVC (if present)
+
 Update to v0.4.4 - 20/05/2017
 Fixes:
 - corrected Angency config error
 - restructered the SHED/Parts folder splitting REKT and OTAV
-- revised modle for OTAVcore
+- revised model for OTAVcore
 - revised OTAV textures
 - Minichute scalling issue during animation
 
