@@ -1,13 +1,18 @@
 Update to v0.4.5 - 06/2017
 Fixes:
-- Further revisions to the OTAV model
+- Fixed OTAV Hatch obstruction issue 
+- Further revisions to the OTAV model aerodynamics
 
 New:
 - Added Landing gear to the OTAV model using KSPWheel
+- KSP-AVC version file now added. Compatible with KSP-AVC/MiniAVC (if present)
 
 Other:
+- OTAV Folder re-structure
+- Deprecated old OTAVcore and OTAVariFins
+- OTAVairBrake now removed (no longer supported)
 - Implemented Localisation
-- Compatible with KSP-AVC/MiniAVC (if present)
+- Implemented 'SHED WORX' Agency
 
 Update to v0.4.4 - 20/05/2017
 Fixes:
