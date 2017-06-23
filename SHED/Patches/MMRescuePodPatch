@@ -1,8 +1,0 @@
-@RESCUE_POD_TYPES:NEEDS[KSPPodRescueFix]			
-{			    
-      name = rektkm1a			    
-      name = rektmk1c			    
-      name = rektmk1d			
-      name = rektmk1n
-      name = rektOTAVcore
-} 
