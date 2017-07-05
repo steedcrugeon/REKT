@@ -1,10 +1,15 @@
+Minor Update to v0.4.5.1 - 05/07/17
+
+Fixes:
+- Up-to-date version of RetractableLiftingSurface (1.4) fixes roll problem
+- amended OTAV localisation patch typo
+- Fixed KSPRescuePod patch courtesy of DStaal
+
 Update to v0.4.5 - 06/2017
 
 Fixes:
 - Fixed OTAV Hatch obstruction issue 
 - Further revisions to the OTAV model aerodynamics
-
-
 
 New:
 - Added Landing gear to the OTAV model using KSPWheel
