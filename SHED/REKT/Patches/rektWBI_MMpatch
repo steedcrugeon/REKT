@@ -2,6 +2,7 @@
 
 @PART[freightPod]:NEEDS[WildBlueTools]
 %mass = 0.15
+-RESOURCE[Ore]
 MODULE
 {
 		name = WBIConvertibleStorage
