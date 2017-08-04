@@ -1,0 +1,52 @@
+// This patch is to add additional Functionality to some rekt parts when WBITools is detected.
+
+@PART[freightPod]:NEEDS[WildBlueTools]
+%mass = 0.15
+MODULE
+{
+		name = WBIConvertibleStorage
+		enableLogging = True
+
+		//Determines if the module allows in-field reconfiguring
+		fieldReconfigurable = True
+
+		//Require a confirmation click before changing resources
+		confirmResourceSwitch = True
+
+		//Determines whether or not to show the context menu GUI
+		showGUI = True
+
+		//Short name of the default module template.
+		//This is used when selecting the part in the editor.
+		//User will then right-click on the module to change its type.
+		defaultTemplate = Snacks
+
+		//name of the template nodes to use
+		templateNodes = STORAGE_TEMPLATE
+
+		//Some containers don't hold as much resources as the template specifies, while others hold more.
+		//Since the resource templates specify base amounts, the capacity factor specifies a multiplier to
+		//factor into the resource amounts.
+		capacityFactor = 0.086
+
+		//Name of the logo panel transforms
+		//logoPanelTransforms = null
+		decalsVisible = false
+
+		//If the part has a KIS container, this is the base and max amount
+		//baseStorage = .001
+		//maxStorage = 800
+	}
+
+@PART[surf]:NEEDS[WildBlueTools]
+{
+    @MODULE[ModuleResourceConverter]
+    {
+        OUTPUT_RESOURCE
+        {
+            name = Water
+            Ratio = 0.01875
+            DumpExcess = True
+        }
+    }
+}
